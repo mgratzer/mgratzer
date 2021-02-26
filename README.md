@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Martin Gratzer
+### 👋 Hi there, I'm Martin, and I know things about mobile apps.
 
-I started my career as a web developer in a big international [EMS](https://en.wikipedia.org/wiki/Electronics_manufacturing_services) company. Later, I quit my job to focus on my computer sciences 🤓 and business administration 👔 degrees and became a freelancer in 2004. 
+My career started as a web developer in a big international [EMS](https://en.wikipedia.org/wiki/Electronics_manufacturing_services) company. Later, I quit my job to focus on my computer sciences 🤓 and business administration 👔 degrees and became a freelancer in 2004. 
 
-In 2008 my focus switched to mobile software product development 📱, leading to my company [topmind GmbH](https://topmind.eu). 
+In 2008 my focus switched to mobile software product development 📱, leading to my company [topmind GmbH](https://topmind.eu).
 
 Since then, I have enjoyed working in leading technical and product/project/team management roles of awarded mobile apps and SDKs like [MindMeister](https://apps.apple.com/app/id381073026), [iTranslate](https://apps.apple.com/app/id288113403), [iTranslate Converse](https://apps.apple.com/app/id1241264761), [iTranslate Lingo](https://apps.apple.com/app/id1436833817), [Skiline](https://apps.apple.com/app/id406479148), [femSense](https://apps.apple.com/app/id1373747509), [Jungfrau Region](https://apps.apple.com/app/id1465310312), [myZillertal](https://apps.apple.com/app/id1488510082), [bitmovin Player](https://github.com/bitmovin/bitmovin-player-ios-samples) and more.
 
