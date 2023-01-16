@@ -1,15 +1,12 @@
 ### 👋 Hi there, I'm Martin, and I know things about mobile apps.
 
-tl;dr: A xenial 👨‍💻 who knows things about mobile apps from years of freelancing and leading a successful software agency crafting award-winning mobile apps 🏆 since the inception of the app store.
+After high school in Carinthia, my professional career started as a web developer in a big international [EMS](https://en.wikipedia.org/wiki/Electronics_manufacturing_services) company. I soon switched gears to approach degrees in computer sciences 🤓 and business administration 👔. I also became a freelancer during my time at university. 
 
----
+With the release of the iPhone, my focus switched to mobile software development 📱, followed by founding [topmind GmbH](https://topmind.eu) with a passionate team of software engineers. 
 
-My career started as a web developer in a big international [EMS](https://en.wikipedia.org/wiki/Electronics_manufacturing_services) company. Later, I quit my job to focus on my computer sciences 🤓 and business administration 👔 degrees and became a freelancer in 2004. 
+Since then, I have enjoyed working in different roles of awarded mobile apps and SDKs like [MindMeister](https://apps.apple.com/app/id381073026), [MeisterTask](https://apps.apple.com/app/id918099883), [iTranslate](https://apps.apple.com/app/id288113403), [iTranslate Converse](https://apps.apple.com/app/id1241264761), [iTranslate Lingo](https://apps.apple.com/app/id1436833817), [Skiline](https://apps.apple.com/app/id406479148), [femSense](https://apps.apple.com/app/id1373747509), [Jungfrau Region](https://apps.apple.com/app/id1465310312), [myZillertal](https://apps.apple.com/app/id1488510082), [bitmovin Player](https://github.com/bitmovin/bitmovin-player-ios-samples), [Authenticator App](https://apps.apple.com/us/app/authenticator-app/id1610508128), [Over! Walkie-Talkie](https://apps.apple.com/us/app/over-walkie-talkie/id1632587029) and more.
 
-In 2008 my focus switched to mobile software product development 📱, leading to my company [topmind GmbH](https://topmind.eu).
-
-Since then, I have enjoyed working in leading technical and product/project/team management roles of awarded mobile apps and SDKs like [MindMeister](https://apps.apple.com/app/id381073026), [iTranslate](https://apps.apple.com/app/id288113403), [iTranslate Converse](https://apps.apple.com/app/id1241264761), [iTranslate Lingo](https://apps.apple.com/app/id1436833817), [Skiline](https://apps.apple.com/app/id406479148), [femSense](https://apps.apple.com/app/id1373747509), [Jungfrau Region](https://apps.apple.com/app/id1465310312), [myZillertal](https://apps.apple.com/app/id1488510082), [bitmovin Player](https://github.com/bitmovin/bitmovin-player-ios-samples) and more.
+Since 2022 I have been a Senior Staff Engineer in charge of all iOS functions at [Meister](https://www.meisterlabs.com).
 
 ### Find me elsewhere 🌎
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martingratzer/)](https://www.linkedin.com/in/martingratzer/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mgratzer)](https://twitter.com/mgratzer)
+[Mastodon](https://mastodon.social/@mgratzer), [LinkedIn](https://www.linkedin.com/in/martingratzer/), [Twitter](https://twitter.com/mgratzer)
